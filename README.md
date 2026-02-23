@@ -1,30 +1,63 @@
-<h1 align="center">Hi 👋, I'm Javeria Ahmad</h1>
-<h3 align="center">A passionate Computer Engineering student from Pakistan</h3>
+<h2 align="left">Hi! Javeria Ahmad here, a Computer Engineer from Pakistan</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=javeriaahmad597&label=Profile%20views&color=0e75b6&style=flat" alt="javeriaahmad597" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javeriaahmad597" alt="javeriaahmad597" /></a> </p>
+<div align="center">
+   
+</div>
 
-- 🔭 I’m currently working on **Python development**
+###
 
-- 🌱 I’m currently learning **Python and Machine Learning**
+<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmV1Z3p4M3U3bGo5bGc3bnU1N211eHd3OHgxamRxZzl1Mmx2b2RwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t0cjm1j1U2IEg/giphy.gif"  />
 
-- 👯 I’m looking to collaborate on **C++ projects**
+###
 
-- 🤝 I’m looking for help with **Python projects**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" height=30, width 30>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" height=30, width 30>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="embedded c"  height=30, width 30>
+  <img width="12" />
+</div>
 
-- 📫 How to reach me **javeriaahmad597@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/javeria ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="javeria ahmad" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <!-- YouTube -->
+  <a href="https://youtube.com/@YOUR_CHANNEL" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:your.javeriaahmad597@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/javeria-ahmad" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javeriaahmad597&show_icons=true&locale=en&layout=compact" alt="javeriaahmad597" /></p>
+<br clear="both">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javeriaahmad597&show_icons=true&locale=en" alt="javeriaahmad597" /></p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javeriaahmad597&" alt="javeriaahmad597" /></p>
